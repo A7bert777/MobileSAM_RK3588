@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/file_utils.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

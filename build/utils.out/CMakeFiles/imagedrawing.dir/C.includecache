@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/common.h
+
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/font.h
+
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/image_drawing.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+image_drawing.h
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/image_drawing.h
+font.h
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/font.h
+
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/image_drawing.h
+common.h
+/data/04RKNN_GIthub_related/rknn_play/MobileSAM_RK3588/utils/common.h
+
